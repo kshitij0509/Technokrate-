@@ -8,7 +8,7 @@ How to send emails using Node.js and Nodemailer.
 4. Run `node index.js` to start the server.
 
 ## `.env` File
-
+```env
 SMTP_HOST=smtp.gmail.com
 SMTP_PORT=587
 SMTP_USER=your_username
