@@ -11,9 +11,9 @@ How to send emails using Node.js and Nodemailer.
 ```env
 SMTP_HOST=smtp.gmail.com
 SMTP_PORT=587
-SMTP_USER=your_username
+SMTP_USER=your_mail@gmail.com
 SMTP_PASS=your_password
-RECEIVER_EMAIL=
+RECEIVER_EMAIL=receiver@gmail.com
 
 ## Notes
 
